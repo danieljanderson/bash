@@ -1,0 +1,15 @@
+#!/bin/bash
+# Author: Daniel Anderson
+# Date Created: 06/17/2020
+# Description: Run basic linux tasks
+# Date Modified: 06/17/2020
+
+echo
+echo This script will run a few basic tasks
+echo
+pwd
+ls
+whoami
+date
+cal
+touch a b c
