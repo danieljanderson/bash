@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo Hello, my name is Daniel Anderson
+echo
+echo What is your name?
+read username
+echo
+echo your name is $username
+echo
